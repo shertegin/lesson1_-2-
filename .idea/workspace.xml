@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9aa97780-5f64-4cc5-aecb-6da4c72bee42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/lesson1_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio-Template-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Apple.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Google.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/YouTube.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/hero-man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/project_1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/_mixins.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/_vars.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon-font/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon-font/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon-font/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon-font/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon-font/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon-font/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon-font/fa-v4compatibility.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon-font/fa-v4compatibility.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon-font/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon-font/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon-font/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon-font/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prepros.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/nullstyles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/custom-font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/nullstyles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ttcAbpE7Pk1ZZHoLu6cA2BgXZj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/zamiras/Desktop/GEEKS2/lesson1_(2)",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9aa97780-5f64-4cc5-aecb-6da4c72bee42" name="Changes" comment="" />
+      <created>1741174668936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741174668936</updated>
+      <workItem from="1741174670079" duration="5910000" />
+      <workItem from="1741248488636" duration="80000" />
+      <workItem from="1741596479375" duration="24000" />
+      <workItem from="1741596523438" duration="65000" />
+      <workItem from="1741596604680" duration="344000" />
+      <workItem from="1741597158302" duration="675000" />
+      <workItem from="1741604549812" duration="6620000" />
+      <workItem from="1741846896816" duration="2266000" />
+      <workItem from="1741849744171" duration="99000" />
+      <workItem from="1741849884818" duration="18000" />
+      <workItem from="1741850301089" duration="50000" />
+      <workItem from="1741850477277" duration="8501000" />
+      <workItem from="1741859152245" duration="4830000" />
+      <workItem from="1741868746705" duration="24000" />
+      <workItem from="1741869312471" duration="78000" />
+      <workItem from="1741869397473" duration="9000" />
+      <workItem from="1741869677912" duration="13000" />
+      <workItem from="1742030163415" duration="20000" />
+      <workItem from="1742031519703" duration="38000" />
+      <workItem from="1742031618600" duration="81000" />
+      <workItem from="1742031737799" duration="32000" />
+      <workItem from="1742031873021" duration="28000" />
+      <workItem from="1742032061661" duration="736000" />
+      <workItem from="1742117587383" duration="15000" />
+      <workItem from="1742117769940" duration="13000" />
+      <workItem from="1742119503226" duration="13000" />
+      <workItem from="1742123862511" duration="70000" />
+      <workItem from="1742123998835" duration="29000" />
+      <workItem from="1742145438351" duration="348000" />
+      <workItem from="1742145905131" duration="35000" />
+      <workItem from="1742145979986" duration="6000" />
+      <workItem from="1742146599255" duration="34000" />
+      <workItem from="1742149620693" duration="87000" />
+      <workItem from="1742150302356" duration="3000" />
+      <workItem from="1742151025045" duration="469000" />
+      <workItem from="1742195588302" duration="440000" />
+      <workItem from="1742203487662" duration="61000" />
+      <workItem from="1742209516436" duration="5271000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
