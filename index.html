@@ -17,12 +17,12 @@
             <div class="category-block">
                 <i class="icon-Logo-1"></i>
                 <div class="nav">
-                    <ul class="nav-list">
-                        <li><a href="#">About Me</a></li>
-                        <li><a href="#">Skills</a></li>
-                        <li><a href="#">Project</a></li>
-                        <li><a href="#">Contact Me</a></li>
-                    </ul>
+<!--                    <ul class="nav-list">-->
+<!--                        <li><a href="#">About Me</a></li>-->
+<!--                        <li><a href="#">Skills</a></li>-->
+<!--                        <li><a href="#">Project</a></li>-->
+<!--                        <li><a href="#">Contact Me</a></li>-->
+<!--                    </ul>-->
                 </div>
                 <div class="button">
                     <button class="btn">Resume <i class="icon-download"></i></button>
@@ -209,43 +209,47 @@
                     <div class="project-image">
                         <img src="./assets/project_1.jpeg" alt="project 1">
                     </div>
-<!--                    <div class="project-info">-->
-<!--                        <h2 class="number">01</h2>-->
-<!--                        <h4 class="project-title">Crypto Screener Application</h4>-->
-<!--                        <p class="project-description">An intuitive application for monitoring and analyzing cryptocurrency markets. It offers real-time data, advanced filters, and insightful tools tailored for traders and investors of all levels.</p>-->
-<!--                        <button class="more-btn"> Learn more<i class="icon-external"></i></button>-->
-<!--                    </div>-->
+                    <div class="project-info">
+                        <h2 class="number">01</h2>
+                        <h4 class="project-title">Crypto Screener Application</h4>
+                        <p class="project-description">An intuitive application for monitoring and analyzing cryptocurrency markets. It offers real-time data, advanced filters, and insightful tools tailored for traders and investors of all levels.</p>
+                        <button class="more-btn"> Learn more<i class="icon-external"></i></button>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
     <section>
         <div class="container call-me">
-            <div class="form">
-                <form>
-                    <input type="text" name="full_name" placeholder="Your Name" class="from-input">
-                    <input type="text" name="email" placeholder="Email" class="from-input">
-                    <select name="city" class="from-input">
-                        <option value="bishkek">Bishkek</option>
-                        <option value="osh">Osh</option>
-                        <option value="kant">Kant</option>
-                    </select>
-                    <textarea name="description" rows="10" placeholder="How can I help?" class="from-input"></textarea>
-                    <button type="submit" class="submit-btn">Get in Touch</button>
+            <div class="call-block">
+                <form action="#" method="post" class="form">
+                    <div>
+                        <input type="text" class="name" name="name" placeholder="Ваше имя" required>
+                    </div>
+                    <div>
+                        <input type="email" class="gmail" name="email" placeholder="Email" required>
+                    </div>
+                    <div>
+                        <input type="text" class="website" name="website" placeholder="Ваш сайт (если есть)">
+                    </div>
+                    <div>
+                        <textarea class="message" name="message" placeholder="Как я могу помочь?" required></textarea>
+                    </div>
                 </form>
                 <div class="socials">
-                        <div class="hero-icon">
-                            <i class="icon-reddit"></i>
-                        </div>
-                        <div class="hero-icon">
-                            <i class="fa-brands fa-linkedin"></i>
-                        </div>
-                        <div class="hero-icon">
-                            <i class="icon-Vector"></i>
-                        </div>
-                        <div class="hero-icon">
-                            <i class="icon-twiiter"></i>
-                        </div>
+                    <button type="button" class="call-btn">Get in Touch</button>
+                    <div class="hero-icon">
+                        <i class="icon-reddit"></i>
+                    </div>
+                    <div class="hero-icon">
+                        <i class="fa-brands fa-linkedin"></i>
+                    </div>
+                    <div class="hero-icon">
+                        <i class="icon-Vector"></i>
+                    </div>
+                    <div class="hero-icon">
+                        <i class="icon-twiiter"></i>
+                    </div>
                 </div>
             </div>
             <div class="contacts">
